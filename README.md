@@ -1,6 +1,6 @@
 # Hi there, my name is Olivier 👋
 
-## I'm a Web Developer with experience in JavaScript, React but also PHP, based in Rennes, based in Rennes, North West of France 🌊🏙️.
+## I'm a Web Developer with experience in JavaScript, React but also PHP, based in Rennes, North West of France 🌊🏙️.
 
 💻 I’m currently working on a project of web application using React and Redux technologies. On this project I use Agile methodology with SCRUM, and are part of a four web-developers team including Symfony developers for the Back-End.
 
