@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I'm a Web Developer with experience in JavaScript, React but also PHP.
 
