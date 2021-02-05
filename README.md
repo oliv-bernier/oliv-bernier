@@ -8,6 +8,7 @@
 
 👀 Take a look at my portfolio : https://www.obernier.fr
 
+👋 Hope to meet you
 
 <!--
 **oliv-bernier/oliv-bernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
