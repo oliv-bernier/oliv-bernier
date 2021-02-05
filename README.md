@@ -1,6 +1,5 @@
 # Hi there, my name is Olivier 👋
-
-## I'm a Web Developer with experience in JavaScript, React but also PHP, based in Rennes, North West of France 🌊🏙️.
+## I'm a Web Developer with experience in JavaScript, React but also PHP, based in Rennes, North West of France 🌊🏙️
 
 💻 I’m currently working on a project of web application using React and Redux technologies. On this project I use Agile methodology with SCRUM, and are part of a four web-developers team including Symfony developers for the Back-End.
 
@@ -8,7 +7,7 @@
 
 👀 Take a look at my portfolio : https://www.obernier.fr
 
-👋 Hope to meet you
+👋 Hope to meet you.
 
 <!--
 **oliv-bernier/oliv-bernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
