@@ -3,7 +3,7 @@
 
 💻 I’m currently working on a project of web application using React and Redux technologies. I use Agile methodology with SCRUM, and are part of a four web-developers team including Symfony developers for the Back-End.
 
-☝️ I have a real taste for the Front-End part but I also know how to code PHP with an MVC architecture and object-oriented programming, as well as build or improve a database.
+☝️ I have a real taste for the Front-End part but I also know how to code PHP with object-oriented programming and an MVC architecture, as well as build or improve a database.
 
 👀 Take a look at my portfolio : https://www.obernier.fr
 
