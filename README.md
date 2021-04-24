@@ -9,7 +9,7 @@
 
 👋 Hope to meet you.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliv-bernier&layout=compact)](https://github.com/oliv-bernier/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliv-bernier&layout=compact)
 
 <!--
 **oliv-bernier/oliv-bernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
