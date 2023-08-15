@@ -1,5 +1,5 @@
 # Hi there, my name is Olivier 👋
-## I'm a Full-stack Developer with experience in TypeScript and Node.js, based in Rennes, North West of France  🌊🏙️
+## I'm a Web Developer with experience in TypeScript and Node.js, based in Rennes, North West of France  🌊🏙️
 
 💻 I am currently working at VYTRUVE since July, 2021 with **React** and **NestJS** as the main stack.
 
