@@ -5,8 +5,6 @@
 
 ⚡ Started web development with PHP, fell in love with JavaScript, and now code with **TypeScript**.
 
-☝️ Libs and frameworks are great, but I also find it super cool to make vanilla JavaScript for small projects, and as a Frontend lover I am a big fan of pure **custom CSS**.
-
 🔭 I plan to learn new languages and libraries and would like to continue sharing some fun side projects here so feel free to follow!
 
 👋 Hope to meet you.
